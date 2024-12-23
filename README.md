@@ -1,4 +1,7 @@
 Learning progress:
-| Topics | Done? | Progress (%) | Date Finished | Certificate |
+| Topics | Done? | Progress (%) | Date Finished |
 | --- | --- | --- | --- | --- |
-| Data Cleaning | Yes | 100 | Dec 21 2024 | ![Winson Kwong - Data Cleaning](https://github.com/user-attachments/assets/a47cb286-5d52-456c-8e76-bd7a3cd3de89) |
+| Data Cleaning | Yes | 100 | Dec 21 2024 |
+| Introduction to Machine Learning | Yes | 100 | Dec 22 2024 |
+| Intermediate Machine Learning | No | 43 | --- |
+| Time Series | --- | --- | --- |
