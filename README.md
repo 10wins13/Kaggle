@@ -1,6 +1,6 @@
 <h3><b> Kaggle Courses and Competitions </b></h3>
-<br>
 
+<br>
 Finished Courses:
 | Course Name | Date of Completion |
 | --- | --- |
