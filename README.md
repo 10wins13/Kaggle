@@ -1,4 +1,4 @@
-Kaggle Courses and Competitions
+<b> Kaggle Courses and Competitions </b>
 
 Finished Courses:
 | Course Name | Finished Date |
