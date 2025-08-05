@@ -1,4 +1,4 @@
-<b><u> Kaggle Courses and Competitions </u></b>
+<h3><b> Kaggle Courses and Competitions </b></h3>
 
 
 Finished Courses:
