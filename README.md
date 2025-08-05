@@ -1,6 +1,6 @@
 <h3><b> Kaggle Courses and Competitions </b></h3>
 
-
+<br>
 Finished Courses:
 | Course Name | Date of Completion |
 | --- | --- |
@@ -8,5 +8,5 @@ Finished Courses:
 | Intro to Machine Learning | Dec 22, 2024 |
 | Intermediate Machine Learning | Dec 25, 2024 |
 
-
+<br>
 Participated Competitions:
